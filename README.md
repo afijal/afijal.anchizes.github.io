@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## POLITYKA PRYWATNOŚCI
+BusLive zwany dalej usługą jest dostarczany przez Artur Fijał KoalaSoft bez żadnych opłat i jest przeznaczony do użytku w niezmienionym stanie.
 
-You can use the [editor on GitHub](https://github.com/afijal/afijal.anchizes.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ta strona służy do informowania użytkowników o naszych zasadach poprzez zbieranie, używanie i przetwarzanie Danych osobowych, jeśli ktoś zdecyduje się skorzystać z naszej Usługi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jeśli zdecydujesz się skorzystać z naszej Usługi, zgadzasz się na zbieranie i wykorzystywanie informacji zgodnie z polityką prywatności. Dane osobowe, które zbieramy, służą do dostarczania i ulepszania Usługi. Nie będziemy wykorzystywać ani udostępniać twoich informacji nikomu poza opisanymi w niniejszej Polityce prywatności.
 
-### Markdown
+### Zbieranie i wykorzystywanie informacji
+Aby uzyskać lepsza jakość usługi podczas korzystania z naszej Usługi, możemy wymagać podania pewnych informacji, w tym między innymi identyfikatora reklamowego Android. Informacje, o które prosimy, zostaną przez nas zachowane i użyte w sposób opisany w niniejszej polityce prywatności.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aplikacja korzysta z usług stron trzecich, które mogą zbierać informacje używane do identyfikacji użytkownika.
 
-```markdown
-Syntax highlighted code block
+Link do polityki prywatności dostawców usług zewnętrznych używanych przez aplikację
 
-# Header 1
-## Header 2
-### Header 3
+Usługi Google Play
+- [Usługi Google Play](https://policies.google.com/privacy)
+- [AdMob](https://support.google.com/admob/answer/6128543?hl=pl)
 
-- Bulleted
-- List
+### Logi
+Chcemy poinformować, że za każdym razem, gdy korzystasz z naszej Usługi, w przypadku wystąpienia błędu w aplikacji zbieramy logi odnośnie pracy aplikacji. Logi mogą zawierać informacje, takie jak adres IP twojego urządzenia ("IP"), nazwa urządzenia, wersja systemu operacyjnego, konfiguracja aplikacji podczas korzystania z naszej Usługi, czas i datę korzystania z Usługi oraz inne statystyki.
 
-1. Numbered
-2. List
+### Pliki cookie
+Pliki cookie to pliki zawierające niewielką ilość danych, które są powszechnie używane jako anonimowe niepowtarzalne identyfikatory. Te są wysyłane do przeglądarki z odwiedzanych stron internetowych i są przechowywane w pamięci wewnętrznej urządzenia.
 
-**Bold** and _Italic_ and `Code` text
+Ta usługa nie wykorzystuje bezpośrednio "plików cookie". Jednak aplikacja może korzystać z kodu i bibliotek stron trzecich używających plików "cookie" do gromadzenia informacji i ulepszania swoich usług.
 
-[Link](url) and ![Image](src)
-```
+### Bezpieczeństwo
+Cenimy sobie zaufanie jakim obdarzyłeś nasz udostępniając nam swoich danych osobowych, dlatego staramy się stosować najlepsze sposoby jej ochrony.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Linki do innych stron
 
-### Jekyll Themes
+Ta usługa może zawierać linki do innych stron. Jeśli klikniesz link strony trzeciej, zostaniesz przekierowany do tej witryny. Pamiętaj, że zewnętrzne witryny nie są obsługiwane przez nas. Dlatego mocno radzimy zapoznać się z polityką prywatności tych stron. Nie mamy kontroli i nie ponoszą żadnej odpowiedzialności za zawartość, politykę prywatności lub praktyki stron trzecich lub usługi.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afijal/afijal.anchizes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Zmiany w niniejszej Polityce prywatności
 
-### Support or Contact
+Od czasu do czasu możemy aktualizować naszą Politykę prywatności. Dlatego zalecamy zaglądać na tę stronę okresowo.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Skontaktuj się z nami
+
+Jeśli masz jakieś pytania lub sugestie dotyczące naszej Polityki prywatności, nie wahaj się skontaktować z nami.
