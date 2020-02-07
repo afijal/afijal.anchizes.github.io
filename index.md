@@ -1,5 +1,5 @@
 ## POLITYKA PRYWATNOŚCI
-BusLive zwany dalej usługą jest dostarczany przez Artur Fijał KoalaSoft bez żadnych opłat i jest przeznaczony do użytku w niezmienionym stanie.
+Bus Tables Live zwany dalej usługą jest dostarczany przez Artur Fijał KoalaSoft bez żadnych opłat i jest przeznaczony do użytku w niezmienionym stanie.
 
 Ta strona służy do informowania użytkowników o naszych zasadach poprzez zbieranie, używanie i przetwarzanie Danych osobowych, jeśli ktoś zdecyduje się skorzystać z naszej Usługi.
 
