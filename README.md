@@ -38,3 +38,4 @@ Od czasu do czasu możemy aktualizować naszą Politykę prywatności. Dlatego z
 Skontaktuj się z nami
 
 Jeśli masz jakieś pytania lub sugestie dotyczące naszej Polityki prywatności, nie wahaj się skontaktować z nami.
+artur.fijal.koalasoft@gmail.com
