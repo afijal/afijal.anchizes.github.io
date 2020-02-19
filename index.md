@@ -25,7 +25,7 @@ Pliki cookie to pliki zawierające niewielką ilość danych, które są powszec
 Ta usługa nie wykorzystuje bezpośrednio "plików cookie". Jednak aplikacja może korzystać z kodu i bibliotek stron trzecich używających plików "cookie" do gromadzenia informacji i ulepszania swoich usług.
 
 ### Bezpieczeństwo
-Cenimy sobie zaufanie jakim obdarzyłeś nasz udostępniając nam swoich danych osobowych, dlatego staramy się stosować najlepsze sposoby jej ochrony.
+Cenimy sobie zaufanie jakim obdarzyłeś nas udostępniając nam swoje dane osobowe, dlatego staramy się stosować najlepsze sposoby jej ochrony.
 
 Linki do innych stron
 
